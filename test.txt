@@ -9,6 +9,14 @@ fixed bug
 
 work is not complete
 
+<<<<<<< HEAD
 a write
 a write again
 b write
+=======
+
+b write
+
+a write
+
+>>>>>>> acc74b427e5aca577953b337368d2a88c80d1525
