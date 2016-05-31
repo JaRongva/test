@@ -9,5 +9,8 @@ fixed bug
 
 work is not complete
 
+
 b write
+
+a write
 
