@@ -2,3 +2,5 @@ new a branch
 
 master change
 dev change
+
+change merge model
